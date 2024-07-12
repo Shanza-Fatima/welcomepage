@@ -1,0 +1,111 @@
+*{
+    background-color: white;
+    
+}
+img{
+    display: block;
+    margin : 56px 0 0 250px;
+    height: 548px;
+    width: 450px;
+    box-shadow: -5px 7px 8px rgb(122, 119, 119);
+    border-radius: 10px;
+    
+
+}
+.welcometext{
+    font-size: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    z-index: 1;
+    display: block;
+    margin-top: -350px;
+    margin-left: 280px;
+    font-weight: bold;
+}
+.Loginbox{
+    background-color:white;
+    margin-top: -428px;
+    margin-left: 700px;
+    margin-right: 130px;
+    margin-bottom: 50px;
+    box-shadow: 6px 7px 8px rgb(122, 119, 119);
+    border-radius: 10px;
+    
+    
+}
+#login{
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+    padding: 40px 0px 0px 90px;
+    font-weight: bolder;
+}
+#text{
+    font-size: 16px;
+    color:grey;
+    padding: 0 0 0 90px;
+}
+#usertext{
+    color:grey;
+    font-size: 15px;
+    padding:0 0 0 90px;
+   
+}
+#userinput{
+    margin:0 0 0 90px;
+    padding:12px 100px 12px 7px;
+    border-radius : 8px;
+    border : 1px solid rgba(119, 119, 119, 0.719);
+    outline: none;
+    color: rgb(77, 74, 74);
+    box-shadow: 0.5px 0.5px 5px rgb(163, 162, 162);
+}
+#passtext{
+    color:grey;
+    font-size: 15px;
+    padding :0 0 0 90px;
+}
+#password{
+    margin:0 0 0 90px;
+    padding:12px 100px 12px 7px;
+    border-radius : 8px;
+    border : 1px solid rgba(119, 119, 119, 0.719);
+    outline: none;
+    color: rgb(77, 74, 74);
+    box-shadow: 0.5px 0.5px 5px rgb(163, 162, 162);
+}
+#remember{
+    color:grey;
+    font-size: 15px;
+    margin :30px 0 0 90px;
+        
+}
+.remtext{
+    margin: -19px 0 0 115px;
+}
+#forget{
+    color:grey;
+    font-size: 15px;
+    margin:-18px 0px 0 270px;  
+}
+#btn{
+    margin: 30px 0 0 90px;
+    padding : 10px 126px 10px 126px;
+    background-color: blueviolet;
+    border-radius: 6px;
+    border : 1px solid blueviolet;
+    cursor: pointer;
+}
+#new{
+    color:grey;
+    font-size: 15px;
+    padding:0 0 40px 90px;
+}
+#signup{
+    margin:-74px 0 0px 160px;
+    padding: 0 0 70px 0;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
